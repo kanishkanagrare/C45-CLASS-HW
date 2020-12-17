@@ -8,7 +8,7 @@ function preload(){
 welcomeimg=loadImage("welcomeScreen/welcomescreen.jpg");
 playbuttonimg=loadImage("welcomeScreen/playbutton.png");
 boardimg=loadImage("welcomeScreen/cluetho.png");
-instructionsimg=loadImage("welcomeScreen/Instructionz.PNG");
+instructionsimg=loadImage("welcomeScreen/Instructionz.png");
 chitimg=loadImage("welcomeScreen/chit.jpg");
 oneimg=loadImage("dice/one.png");
 twoimg=loadImage("dice/two.png");
